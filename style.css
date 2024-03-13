@@ -1,0 +1,23 @@
+body{
+    background-color:rgb(86, 88, 88);
+    color: black;
+    font-style: italic;
+    
+}
+.container{
+    width: 360px;
+    height: 400px;
+    margin: 8% auto;
+    background: #fff;
+    border-radius: 9px;
+    position: relative;
+
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 40px;
+    color: black;
+}
+
+  
